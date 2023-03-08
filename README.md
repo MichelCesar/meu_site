@@ -9,7 +9,7 @@
 
 - 📫 Você me acha através do e-mail **platini.almeida9@hotmail.com**
 
-- 📄 Já atuei como Business Analyst e Business Intelligence <a href="https://www.linkedin.com/in/michel-platini-de-almeida-c%C3%A9sar-66693015a/" title="Ir para o meu Linkedin" target="blank">Linkedin</a>
+- 📄 Já atuei como Business Analyst e Business Intelligence  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
