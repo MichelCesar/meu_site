@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/michel-platini-de-almeida-c%c3%a9sar-66693015a/" target="_blank" title="Meu Linkedin :)"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/michel-platini-de-almeida-c%c3%a9sar-66693015a/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/michel-platini-de-almeida-c%c3%a9sar-66693015a/" title="Meu Linkedin :)" target="_blank"  onclick="window.open(this.href,'_blank');return false;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/michel-platini-de-almeida-c%c3%a9sar-66693015a/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
