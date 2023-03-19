@@ -1258,12 +1258,12 @@ a.image {
     transform: scale(1.075); }
 
   /*add animacao a imagem do banner*/
-  #banner .image {
+  /*#banner .image {
     overflow: hidden; }
     #banner .image img {
       transform: scale(1);
       animation: zoom 8s ease-in-out infinite;
-    }
+    }*/
 
     @keyframes zoom {
       0% {
@@ -2157,7 +2157,7 @@ button,
     flex-shrink: 0;
     display: block;
     margin: 0 0 2em 4em;
-    width: 50%; }
+    width: 20%; }
     #banner .image img {
       height: 100%;
       -moz-object-fit: cover;
@@ -2168,6 +2168,7 @@ button,
       -webkit-object-position: center;
       -ms-object-position: center;
       object-position: center;
+      border-radius: 8%;
       width: 100%; }
   @media screen and (orientation: portrait) {
     #banner {
